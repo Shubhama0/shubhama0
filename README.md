@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Shubham Kumar<br>Coding enthusiast & Frontend developer from India
+ Hi 👋, I'm Shubham Kumar<br>Coding enthusiast & MERN Stack developer  & Data Analytics from India
 
 
 ## 🌐 Socials:
